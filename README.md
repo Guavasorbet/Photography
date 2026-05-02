@@ -39,6 +39,3 @@ This repository is a curated collection of my journey through the lens. A direct
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=700&lines=WANT+TO+SEE+MORE+PHOTOS?...CLICK+THE+LINKS+BELOW+FOR+MORE.)
 
 ## 📁 Repository Structure
-
-```
-
