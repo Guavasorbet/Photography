@@ -10,9 +10,15 @@
 
 ---
 
-Surprised? Why?! Every Neuromancer needs a hobby! This one is personal! My work in photography is driven by a deep admiration for the **ephemeral** — those fleeting moments that one can only live once. I believe that if we are observant enough, and perhaps a bit lucky, we can capture and freeze those instances in time, preserving them forever. Long after I'm gone, they'll remain. 
-
-This repository is a curated collection of my journey through the lens. A direct reflection of my creativity, cleverness, vision, a piece of my heart, and my eyes intertwined.
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=Surprised%3F+Why%3F!+Every+Neuromancer+needs+a+hobby!+This+one+is+personal!" alt="photo1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=My+work+in+photography+is+driven+by+a+deep+admiration+for+the+ephemeral+%E2%80%94+those+fleeting" alt="photo2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=moments+that+one+can+only+live+once.+I+believe+that+if+we+are+observant+enough%2C+and+perhaps+a+bit+lucky%2C" alt="photo3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=we+can+capture+and+freeze+those+instances+in+time%2C+preserving+them+forever." alt="photo4" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=Long+after+I%27m+gone%2C+they%27ll+remain." alt="photo5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=This+repository+is+a+curated+collection+of+my+journey+and+my+adventures+alongside+my+humble+Canon+80D+companion." alt="photo6" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=A+Wilson-Tom+Hanks+duo.+Want+to+donate+a+high-end+mirrorless+camera%3F+Sorry+Wilson!+%28I%27m+just+kidding!%29.%3B" alt="photo7" />
+</div>
 
 ---
 
