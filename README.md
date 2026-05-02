@@ -10,7 +10,7 @@
 
 ---
 
-This one is personal! My work in photography is driven by a deep admiration for the **ephemeral** — those fleeting moments that one can only live once. I believe that if we are observant enough, and perhaps a bit lucky, we can capture and freeze those instances in time, preserving them forever. Long after I'm gone, they'll remain. 
+Surprised? Why?! Every Neuromancer needs a hobby! This one is personal! My work in photography is driven by a deep admiration for the **ephemeral** — those fleeting moments that one can only live once. I believe that if we are observant enough, and perhaps a bit lucky, we can capture and freeze those instances in time, preserving them forever. Long after I'm gone, they'll remain. 
 
 This repository is a curated collection of my journey through the lens. A direct reflection of my creativity, cleverness, vision, a piece of my heart, and my mind intertwined through my eyes.
 
@@ -38,4 +38,4 @@ This repository is a curated collection of my journey through the lens. A direct
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=700&lines=WANT+TO+SEE+MORE+PHOTOS?...CLICK+THE+LINKS+BELOW+FOR+MORE.)
 
-## 📁 Repository Structure
+
