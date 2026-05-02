@@ -36,15 +36,9 @@ This repository is a curated collection of my journey through the lens. A direct
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=700&lines=WANT+TO+SEE+MORE+PHOTOS?...CLICK+THE+LINKS+BELOW+FOR+MORE.)
+
 ## 📁 Repository Structure
 
 ```
 
-
----
-
-*I don't just take photographs — I yield a visual legacy of the moments that would otherwise be lost to time.*
-
----
-
-<sub>All works are original. All rights reserved.</sub>
