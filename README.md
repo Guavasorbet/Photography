@@ -44,4 +44,5 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=700&lines=WANT+TO+SEE+MORE+PHOTOS?...CLICK+THE+LINKS+BELOW+FOR+MORE.)
 
+<img width="1000" height="300" alt="guava taking photos" src="https://github.com/user-attachments/assets/42e70fea-f571-4222-b767-0fd3515a047a" />
 
