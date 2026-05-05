@@ -1,5 +1,6 @@
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98FF98&center=true&vCenter=true&width=700&lines=Guava+Sorbet" alt="Typing SVG" />
+
 <img width="800" height="400" alt="guava sorbet taking photos" src="https://github.com/user-attachments/assets/23f833e6-61dc-4d6f-8bcf-772c043dfb7c" />
 </div>
 
@@ -9,16 +10,15 @@
 > **"Photography is the only language that can be understood anywhere in the world."**
 
 ---
+Surprised? Why?! Every Neuromancer needs a hobby! This one is personal!
 
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=Surprised%3F+Why%3F!+Every+Neuromancer+needs+a+hobby!+This+one+is+personal!" alt="photo1" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=My+work+in+photography+is+driven+by+a+deep+admiration+for+the+ephemeral+%E2%80%94+those+fleeting" alt="photo2" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=moments+that+one+can+only+live+once.+I+believe+that+if+we+are+observant+enough%2C+and+perhaps+a+bit+lucky%2C" alt="photo3" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=we+can+capture+and+freeze+those+instances+in+time%2C+preserving+them+forever." alt="photo4" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=Long+after+I%27m+gone%2C+they%27ll+remain." alt="photo5" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=This+repository+is+a+curated+collection+of+my+journey+and+my+adventures+alongside+my+Canon+80D+companion." alt="photo6" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999999&color=98FF98&repeat=false&width=1000&lines=A+Wilson-Tom+Hanks+duo.+Want+to+donate+a+high-end+mirrorless+camera%3F+Sorry+Wilson!+%28I%27m+just+kidding!%29.%3B" alt="photo7" />
-</div>
+My work in photography is driven by a deep admiration for the ephemeral — those fleeting
+moments that one can only live once. I believe that if we are observant enough, and perhaps a bit lucky,
+we can capture and freeze those instances in time, preserving them forever.
+Long after I'm gone, they'll remain.
+
+This repository is a curated collection of my journey and my adventures alongside my Canon 80D companion.
+A Wilson-Tom Hanks duo. Want to donate a high-end mirrorless camera? Sorry Wilson! (I'm just kidding!).
 
 ---
 
